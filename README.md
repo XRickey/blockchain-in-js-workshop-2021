@@ -96,7 +96,7 @@ PoW（工作量证明）是一种常见的区块链共识机制，其挖矿特�
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+https://github.com/XRickey/blockchain-in-js-workshop-2021/commit/faacd15a56589e22ffa3fe07562f9e32df094eb4
 
 
 ### 代码截图
