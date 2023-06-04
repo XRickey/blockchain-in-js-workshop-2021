@@ -28,7 +28,8 @@ https://github.com/XRickey/blockchain-in-js-workshop-2021/commit/2183ecf0c356e2e
 
 > 将截图上传至网盘，放入链接即可
 
-![](链接)
+链接：https://pan.baidu.com/s/1dCa5wJrglF6TLOZyPNC_bw?pwd=e9kc 
+提取码：e9kc
 
 
 ### 主观与讨论题内容
