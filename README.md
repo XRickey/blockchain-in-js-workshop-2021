@@ -118,7 +118,7 @@ https://github.com/XRickey/blockchain-in-js-workshop-2021/commit/faacd15a56589e2
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+https://github.com/XRickey/blockchain-in-js-workshop-2021/commit/c43aa977dab6ac746f1f4a861d9d381083854134
 
 
 ### 代码截图
