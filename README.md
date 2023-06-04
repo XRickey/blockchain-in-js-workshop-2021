@@ -150,7 +150,8 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 > 将截图上传至网盘，放入链接即可
 
-![](链接)
+链接：https://pan.baidu.com/s/1Y7K129EJtcRjDvE6nei24g?pwd=hyo3 
+提取码：hyo3
 
 
 ### 主观与讨论题内容
