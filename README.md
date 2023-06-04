@@ -125,7 +125,8 @@ https://github.com/XRickey/blockchain-in-js-workshop-2021/commit/c43aa977dab6ac7
 
 > 将截图上传至网盘，放入链接即可
 
-![](链接)
+链接：https://pan.baidu.com/s/1Jh9ZxtKxU0-4s_IgDmBZmQ?pwd=gi9l 
+提取码：gi9l
 
 
 ### 主观与讨论题内容
