@@ -2,10 +2,12 @@
 
 ## 小组成员
 
-- 2021xxxx-姓名 （组长）
-- 2021xxxx-姓名
-- 2021xxxx-姓名
-- 2021xxxx-姓名
+2021131137-耿翔宇 （组长）
+2021131138-刘骐宁
+2021131139-徐睿骐
+2021131140-曹梁
+2021131153-谭子悦
+2021131156-常爻羽
 
 
 ## 代码仓库链接
@@ -19,7 +21,7 @@ https://github.com/caosbad/blockchain-in-js-workshop-2021(示例用，请根据�
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+https://github.com/XRickey/blockchain-in-js-workshop-2021/commit/d4677633f2761435d9fa89b3067afb6b23cd4b7b
 
 
 ### 代码截图
