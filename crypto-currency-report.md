@@ -40,12 +40,13 @@ https://github.com/XRickey/blockchain-in-js-workshop-2021/commit/d4677633f276143
 
 ### 代码 commint 地址
 
-
+https://github.com/XRickey/blockchain-in-js-workshop-2021/commit/bea3f9780fdb037a38ed4058207d3758b4993be5
 
 
 ### 代码截图
 
-
+链接：https://pan.baidu.com/s/15YDs397PL0Vszb9VbsPeoQ?pwd=dt3a 
+提取码：dt3a
 
 ### 主观与讨论题内容
 
@@ -58,12 +59,13 @@ https://github.com/XRickey/blockchain-in-js-workshop-2021/commit/d4677633f276143
 
 ### 代码 commint 地址
 
-
+https://github.com/XRickey/blockchain-in-js-workshop-2021/blob/lesson1/src/work/MPT.js
 
 
 ### 代码截图
 
-
+链接：https://pan.baidu.com/s/14dScr7cSDdw8zkB5vKcsgA?pwd=kvf2 
+提取码：kvf2
 
 ### 主观与讨论题内容
 
