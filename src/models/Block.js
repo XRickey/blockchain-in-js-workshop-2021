@@ -1,34 +1,41 @@
 import sha256 from 'crypto-js/sha256.js'
 
-export const DIFFICULTY = 2
+
 
 class Block {
   // 1. 完成构造函数及其参数
 
-  constructor() {}
-
-  isValid() {}
-
-  setNonce(nonce) {}
-
-  // 根据交易变化更新区块 hash
-  _setHash() {}
-
-  // 汇总计算交易的 Hash 值
-  /**
-   * 默克尔树实现
-   */
-  combinedTransactionsHash() {
-
+  constructor(blockchain, parentHash, height, hash, miner) {
+    this.blockchain = blockchain
+    this.parentHash = parentHash
+    this.height = height
+    this.hash = hash
+    this.coinbaseBeneficiary = miner
+    this.utxoPool = new UTXOPool({})
   }
 
-  // 添加交易到区块
-  /**
-   * 
-   * 需包含 UTXOPool 的更新与 hash 的更新
-   */
-  addTransaction() {}
+  getPreviousBlock () {
+    // 判断是否为高度为1的区块
+    if (this.height == 1) {
+      return this.blockchain.genesis
+    }
+    return this.blockchain.blocks[this.parentHash]
+  }
+
+  isValid () {
+    const leadingZero = '0'.repeat(DIFFICULTY)
+    this.setHash()
+    return this.hash.startsWith(leadingZero)
+  }
+
+  setNonce (nonce) {
+    this.nonce = nonce
+  }
+  setHash () {
+    this, this.hash = sha256(this.nonce + this.parentHash + this.height + this.blockchain).toString()
+  }
 
 }
 
 export default Block
+export const DIFFICULTY = 3
